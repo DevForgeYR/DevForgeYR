@@ -9,6 +9,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<p align="left"> <a href="[https://twitter.com/r24498974rathod](https://medium.com/@yogeshrathod68900/enterprise-ui-nightmares-heres-how-i-customized-internal-libraries-like-a-pro-6e2d0f959ce5)" target="blank">Enterprise UI Nightmares? (blog)</a> </p>
+<p align="left"> <a href="https://medium.com/@yogeshrathod68900/centralized-logging-in-react-js-why-and-how-988fe0bcfc8d" target="blank">Centralized Logging in React.js: Why and How? (blog)</a> </p>
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -28,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devforgeyr&show_icons=true&locale=en" alt="devforgeyr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devforgeyr&" alt="devforgeyr" /></p>
